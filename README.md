@@ -36,4 +36,4 @@
 </p>
 
 <h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=aronno1920;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Aronno1920&show_icons=true" alt="GitHub Stats"></p>
