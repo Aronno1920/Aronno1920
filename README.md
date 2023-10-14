@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Selim Ahmed👋</h1>
 <h3 align="center">A Passionate Full Stack .NET Developer From Bangladesh</h3>
-<p>I am a tech-savvy individual with an insatiable passion for learning new technologies daily. Innovation, research, and development are my daily pursuits, and I thrive in environments that foster learning, innovation, and growth. I possess a self-driven attitude and excel both as a team player and a proactive communicator. With a background as an ANALYST PROGRAMMER and a consistent record of acquiring new skills since earning my B.Sc. in CSE degree in 2012, I am dedicated to pushing boundaries in the tech world</p>
+<p>Analyst Programmer with 10+ years of experience in developing scalable and reliable software solutions using Full Stack .NET technologies. Skilled in leading project teams, collaborating with stakeholders, and delivering results that exceed customer expectations. Proficient in C#, ASP.NET, MVC, Web API, .Net Core, .Net 7, Angular 14+, MS SQL Server, PostgreSQL, Mongodb Github etc. Committed to continuous learning and professional growth to stay up-to-date with the latest trends and technologies in the field.</p>
 <ul>
   <li>
     🌍  I'm based in Dhaka, Bangladesh
