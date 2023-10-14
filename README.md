@@ -1,9 +1,17 @@
 <h1 align="center">Hi, I'm Selim Ahmed👋</h1>
 <h3 align="center">A Passionate Full Stack .NET Developer From Bangladesh</h3>
 <p>I am a tech-savvy individual with an insatiable passion for learning new technologies daily. Innovation, research, and development are my daily pursuits, and I thrive in environments that foster learning, innovation, and growth. I possess a self-driven attitude and excel both as a team player and a proactive communicator. With a background as an ANALYST PROGRAMMER and a consistent record of acquiring new skills since earning my B.Sc. in CSE degree in 2012, I am dedicated to pushing boundaries in the tech world</p>
-* 🌍  I'm based in Dhaka, Bangladesh
-* 🧠  I'm learning Microservices with Clean architecture
-* 🤝  I'm open to collaborating on Project
+<ul>
+  <li>
+    🌍  I'm based in Chemnitz, Germany
+  </li>
+  <li>
+    🧠  I'm learning Microservices with Clean architecture
+  </li>
+  <li>
+    🤝  I'm open to collaborating on Projects
+  </li>
+</ul>
 
 <h2>Latest Blog Posts</h2>
   <ul>
