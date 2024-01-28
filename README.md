@@ -46,4 +46,28 @@
 </p>
 
 <h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=Aronno1920&show_icons=true" alt="GitHub Stats"></p>
+<p align="center">
+    <a href="https://github.com/aronno1920#gh-light-mode-only">
+        <img height="210em" src="https://github-readme-stats.vercel.app/api?username=aronno1920&count_private=true&show_icons=true&include_all_commits=true&custom_title=Selim%27s%20Github%20Stats&hide_border=true&line_height=28&theme=graywhite" align = "center"/>
+    </a>
+    <a href="https://github.com/aronno1920#gh-light-mode-only">
+        <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aronno1920&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=graywhite" align = "center"/>
+    </a>
+    <a href="https://github.com/aronno1920#gh-dark-mode-only">
+        <img height="210em" src="https://github-readme-stats.vercel.app/api?username=aronno1920&count_private=true&show_icons=true&include_all_commits=true&custom_title=Selim%27s%20Github%20Stats&hide_border=true&line_height=28&theme=dark" align = "center"/>
+    </a>
+    <a href="https://github.com/aronno1920#gh-dark-mode-only">
+        <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aronno1920&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=dark" align = "center"/>
+    </a>
+
+</p>
+
+<p align="center">
+    <a href="https://github.com/aronno1920#gh-light-mode-only">
+        <img height="210em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aronno1920&theme=default" alt="aronno1920" />
+    </a>
+    <a href="https://github.com/aronno1920#gh-dark-mode-only">
+        <img height="210em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aronno1920&theme=dark" alt="aronno1920" />
+    </a>
+</p>
+
