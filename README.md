@@ -66,10 +66,10 @@
 
 <p align="center">
     <a href="https://github.com/aronno1920#gh-light-mode-only">
-        <img height="210em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aronno1920&theme=default" alt="aronno1920" />
+        <img height="210em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aronno1920&hide_border=true&theme=default" alt="aronno1920" />
     </a>
     <a href="https://github.com/aronno1920#gh-dark-mode-only">
-        <img height="210em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aronno1920&theme=dark" alt="aronno1920" />
+        <img height="210em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aronno1920&hide_border=true&theme=dark" alt="aronno1920" />
     </a>
 </p>
 
