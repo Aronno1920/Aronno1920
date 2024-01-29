@@ -23,7 +23,7 @@
   </ul>
 <p><a href="https://techaid24.com">➡️ More blog posts</a></p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools</h2>
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
@@ -45,7 +45,7 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="36" height="36"/> </a> 
 </p>
 
-<h2>GitHub Profile Analysis</h2>
+<h2>Profile Analysis</h2>
 <p align="center">
     <a href="https://github.com/aronno1920#gh-light-mode-only">
         <img height="210em" src="https://github-readme-stats.vercel.app/api?username=aronno1920&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs,prs&line_height=28&theme=graywhite" align = "center"/>
