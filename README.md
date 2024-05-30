@@ -1,5 +1,12 @@
 <h1 align="center">Hi, I'm Selim Ahmed👋</h1>
 <h3 align="center">A Passionate Full Stack .NET Developer</h3>
+<div align="center">
+  <img src="https://badges.pufler.dev/years/Aronno1920" alt="Years Badge">
+  <img src="https://badges.pufler.dev/repos/Aronno1920" alt="Repos Badge">
+  <img src="https://badges.pufler.dev/gists/Aronno1920" alt="Gists Badge">
+  <img src="https://badges.pufler.dev/commits/monthly/Aronno1920" alt="Commits Badge">
+</div>
+<br /><br />
 <p>Analyst Programmer with 10+ years of experience in developing scalable and reliable software solutions using Full Stack .NET technologies. Skilled in leading project teams, collaborating with stakeholders, and delivering results that exceed customer expectations. Proficient in C#, ASP.NET, MVC, Web API, .Net Core, .Net 7, Angular 14+, MS SQL Server, PostgreSQL, MongoDB GitHub, etc. Committed to continuous learning and professional growth to stay up-to-date with the latest trends and technologies in the field.</p>
 <ul>
   <li>
@@ -12,7 +19,6 @@
     🤝  I'm open to collaborating on Projects
   </li>
 </ul>
-
 <h2>Latest Blog Posts</h2>
   <ul>
     <li><a href=https://techaid24.com/solid-principles/>SOLID Principles in C# with example</a></li>
@@ -21,9 +27,7 @@
     <li><a href=https://techaid24.com/architecture-of-linq/>Architecture of LINQ: A Comprehensive Guide</a></li>
     <li><a href=https://techaid24.com/check-growth-of-sql-database/>How To Check The Growth Of SQL Database</a></li>
   </ul>
-<p><a href="https://techaid24.com">➡️ More blog posts</a></p>
-
-<h2 align="left">👨‍💻 What I am doing..</h2>
+<h2 align="left">What I am doing... 👨‍💻</h2>
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
