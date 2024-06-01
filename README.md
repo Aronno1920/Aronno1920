@@ -16,7 +16,7 @@
     🧠  I'm learning Microservices with Clean architecture
   </li>
   <li>
-    🚀  I'm currently working on Online Exam Portal (Clint/Admin)
+    🚀  I'm currently working on Online Exam Portal (Client/Admin)
   </li>
   <li>
     🤝  I'm open to collaborating on Projects
