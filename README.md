@@ -76,8 +76,7 @@
 <p align="center">
       <a href="https://github.com/aronno1920#gh-light-mode-only">
         <img height="210em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aronno1920&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=graywhite" align = "center"/>
-        <img height="210em" width="49%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aronno1920&hide_border=true&theme=default" alt="aronno1920" />
-    </a>
+        <img height="210em" width="49%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aronno1920&hide_border=true&theme=default" alt="aronno1920" /></a>
       <a href="https://github.com/aronno1920#gh-dark-mode-only">
         <img height="210em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aronno1920&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=dark" align = "center"/>
         <img height="210em" width="49%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aronno1920&hide_border=true&theme=dark" alt="aronno1920" />
