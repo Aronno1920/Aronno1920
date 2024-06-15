@@ -22,14 +22,6 @@
     🤝  I'm open to collaborating on Projects
   </li>
 </ul>
-<h2>Latest Blog Posts</h2>
-  <ul>
-    <li><a href=https://techaid24.com/solid-principles/>SOLID Principles in C# with example</a></li>
-    <li><a href=https://techaid24.com/minimal-api-and-rest-apis-in-net-core/>Minimal API and REST API in .NET Core</a></li>
-    <li><a href=https://techaid24.com/encryption-and-decryption-using-c/>Working with Encryption and Decryption using C#</a></li>
-    <li><a href=https://techaid24.com/architecture-of-linq/>Architecture of LINQ: A Comprehensive Guide</a></li>
-    <li><a href=https://techaid24.com/check-growth-of-sql-database/>How To Check The Growth Of SQL Database</a></li>
-  </ul>
 <h2 align="left">Skills 👨‍💻</h2>
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
