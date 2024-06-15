@@ -55,7 +55,7 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
-
+<br />
 <h2>Profile Analysis</h2>
 <p align="center">
     <a href="https://github.com/aronno1920#gh-light-mode-only">
@@ -65,7 +65,7 @@
         <img height="210em" src="https://github-readme-stats.vercel.app/api?username=aronno1920&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs,prs&line_height=28&theme=dark" align = "center"/>
     </a>
 </p>
-
+<br />
 <p align="center">
       <a href="https://github.com/aronno1920#gh-light-mode-only">
         <img height="210em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aronno1920&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&theme=graywhite" align = "center"/>
