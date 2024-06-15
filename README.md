@@ -30,7 +30,7 @@
     <li><a href=https://techaid24.com/architecture-of-linq/>Architecture of LINQ: A Comprehensive Guide</a></li>
     <li><a href=https://techaid24.com/check-growth-of-sql-database/>How To Check The Growth Of SQL Database</a></li>
   </ul>
-<h2 align="left">What I am doing... 👨‍💻</h2>
+<h2 align="left">Skills 👨‍💻</h2>
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
