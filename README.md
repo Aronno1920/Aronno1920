@@ -1,4 +1,4 @@
-j<h1 align="center">Hi, I'm Selim Ahmed👋</h1>
+<h1 align="center">Hi, I'm Selim Ahmed👋</h1>
 <h3 align="center">A Passionate Full Stack .NET Developer</h3>
 <div align="center">
   <img src="https://badges.pufler.dev/years/Aronno1920" alt="Years Badge">
@@ -22,7 +22,6 @@ j<h1 align="center">Hi, I'm Selim Ahmed👋</h1>
     🤝  I'm open to collaborating on Projects
   </li>
 </ul>
-<br />
 <h2 align="left">Skills 👨‍💻</h2>
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
@@ -56,7 +55,6 @@ j<h1 align="center">Hi, I'm Selim Ahmed👋</h1>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
-<br />
 <h2>Profile Analysis</h2>
 <p align="center">
     <a href="https://github.com/aronno1920#gh-light-mode-only">
@@ -75,5 +73,3 @@ j<h1 align="center">Hi, I'm Selim Ahmed👋</h1>
         <img height="210em" width="49%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aronno1920&hide_border=true&theme=dark" alt="aronno1920" />
     </a>
 </p>
-
-
