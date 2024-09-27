@@ -7,7 +7,7 @@
   <img src="https://badges.pufler.dev/commits/yearly/Aronno1920" alt="Commits Badge">
 </div>
 <br /><br />
-<p>Analyst Programmer with 10+ years of experience in developing scalable and reliable software solutions using Full Stack .NET technologies. Skilled in leading project teams, collaborating with stakeholders, and delivering results that exceed customer expectations. Proficient in C#, ASP.NET, MVC, Web API, .Net Core, .Net 7, Angular 14+, MS SQL Server, PostgreSQL, MongoDB GitHub, etc. Committed to continuous learning and professional growth to stay up-to-date with the latest trends and technologies in the field.</p>
+<p>System Analyst with 10+ years of experience in developing scalable and reliable software solutions using Full Stack .NET technologies. Skilled in leading project teams, collaborating with stakeholders, and delivering results that exceed customer expectations. Proficient in C#, ASP.NET, MVC, Web API, .Net Core, .Net 7, Angular 14+, MS SQL Server, PostgreSQL, MongoDB GitHub, etc. Committed to continuous learning and professional growth to stay up-to-date with the latest trends and technologies in the field.</p>
 <ul>
   <li>
     🌍  I'm based in Dhaka, Bangladesh
