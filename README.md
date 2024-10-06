@@ -58,7 +58,7 @@
 </ul>
 
 <h2>Profile Analysis</h2>
-<p align="center">
+<p>
     <a href="https://github.com/aronno1920#gh-dark-mode-only">
         <img src="https://github-readme-stats.vercel.app/api?username=aronno1920&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&theme=dark" align = "center"/>
     </a>
