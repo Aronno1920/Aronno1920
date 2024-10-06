@@ -3,8 +3,6 @@
 <br />
 <div align="center">
 
-![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?logo=visualstudio)
-![VS Code](https://img.shields.io/badge/IDE-VS%20Code-007ACC?logo=visualstudiocode)
 ![C#](https://img.shields.io/badge/Language-C%23-239120?logo=csharp)
 ![.NET](https://img.shields.io/badge/Platform-.NET-512BD4?logo=dotnet)
 ![ASP.NET](https://img.shields.io/badge/Framework-ASP.NET-5C2D91?logo=dotnet)
@@ -25,6 +23,8 @@
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql)
 ![Nginx](https://img.shields.io/badge/Web%20Server-Nginx-009639?logo=nginx)
 ![Docker](https://img.shields.io/badge/Containerization-Docker-2496ED?logo=docker)
+![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?logo=visualstudio)
+![VS Code](https://img.shields.io/badge/IDE-VS%20Code-007ACC?logo=visualstudiocode)
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux)
 ![WordPress](https://img.shields.io/badge/CMS-WordPress-21759B?logo=wordpress)
 </div>
