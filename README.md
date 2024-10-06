@@ -55,7 +55,7 @@
   <img src="https://badges.pufler.dev/commits/yearly/Aronno1920" alt="Commits Badge">
 </div>
 
-### Profile Analysis
+<h2>Profile Analysis</h2>
 <p align="center">
     <a href="https://github.com/aronno1920#gh-light-mode-only">
         <img height="210em" src="https://github-readme-stats.vercel.app/api?username=aronno1920&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs,prs&line_height=28&theme=graywhite" align = "center"/>
@@ -74,6 +74,7 @@
     </a>
 </p>
 
-### Where to find me
+<h2>Where to find me</h2>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aronno1920/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/aronno1920)
