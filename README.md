@@ -15,7 +15,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss)
-![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver)
+![MSSQL](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?logo=microsoftsqlserver)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
