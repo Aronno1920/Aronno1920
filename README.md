@@ -10,10 +10,9 @@
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript)
 ![Angular](https://img.shields.io/badge/Framework-Angular-DD0031?logo=angular)
 ![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript)
+![Java](https://img.shields.io/badge/Language-Java-007396?logo=openjdk)
 ![HTML5](https://img.shields.io/badge/Language-HTML5-E34F26?logo=html5)
 ![Bootstrap](https://img.shields.io/badge/UI%20Framework-Bootstrap-7952B3?logo=bootstrap)
-![Java](https://img.shields.io/badge/Language-Java-007396?logo=openjdk)
-
 
 ![GraphQL](https://img.shields.io/badge/Query%20Language-GraphQL-E10098?logo=graphql)
 ![MSSQL](https://img.shields.io/badge/Database-MSSQL-CC2927?logo=microsoftsqlserver)
