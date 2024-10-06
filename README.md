@@ -48,6 +48,13 @@
   </li>
 </ul>
 
+<div align="center">
+  <img src="https://badges.pufler.dev/years/Aronno1920" alt="Years Badge">
+  <img src="https://badges.pufler.dev/repos/Aronno1920" alt="Repos Badge">
+  <img src="https://badges.pufler.dev/gists/Aronno1920" alt="Gists Badge">
+  <img src="https://badges.pufler.dev/commits/yearly/Aronno1920" alt="Commits Badge">
+</div>
+
 <h2>Profile Analysis</h2>
 <p align="center">
     <a href="https://github.com/aronno1920#gh-light-mode-only">
@@ -67,14 +74,6 @@
     </a>
 </p>
 
-<div align="center">
-  <img src="https://badges.pufler.dev/years/Aronno1920" alt="Years Badge">
-  <img src="https://badges.pufler.dev/repos/Aronno1920" alt="Repos Badge">
-  <img src="https://badges.pufler.dev/gists/Aronno1920" alt="Gists Badge">
-  <img src="https://badges.pufler.dev/commits/yearly/Aronno1920" alt="Commits Badge">
-</div>
-
 ### Where to find me
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aronno1920/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/aronno1920)
