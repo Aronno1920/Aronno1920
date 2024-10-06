@@ -55,7 +55,7 @@
   <img src="https://badges.pufler.dev/commits/yearly/Aronno1920" alt="Commits Badge">
 </div>
 
-<h2>Profile Analysis</h2>
+### Profile Analysis
 <p align="center">
     <a href="https://github.com/aronno1920#gh-light-mode-only">
         <img height="210em" src="https://github-readme-stats.vercel.app/api?username=aronno1920&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs,prs&line_height=28&theme=graywhite" align = "center"/>
