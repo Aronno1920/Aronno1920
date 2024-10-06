@@ -41,7 +41,6 @@
 </div>
 
 <br />
-
 <p>System Analyst with 10+ years of experience in developing scalable and reliable software solutions using Full Stack .NET technologies. Skilled in leading project teams, collaborating with stakeholders, and delivering results that exceed customer expectations. Proficient in C#, ASP.NET, MVC, Web API, .Net Core, Angular, MSSQL Server, PostgreSQL, MongoDB, GitHub, etc. Committed to continuous learning and professional growth to stay up-to-date with the latest trends and technologies in the field.</p>
 <ul>
   <li>
@@ -58,7 +57,6 @@
   </li>
 </ul>
 
-<br />
 <h2>Profile Analysis</h2>
 <p align="center">
     <a href="https://github.com/aronno1920#gh-light-mode-only">
@@ -77,7 +75,7 @@
         <img height="210em" width="49%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aronno1920&hide_border=true&theme=dark" alt="aronno1920" />
     </a>
 </p>
-<br />
+
 <h2>Where to find me</h2>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aronno1920/) 
