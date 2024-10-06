@@ -27,10 +27,8 @@
 ![Docker](https://img.shields.io/badge/Containerization-Docker-2496ED?logo=docker)
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux)
 ![WordPress](https://img.shields.io/badge/CMS-WordPress-21759B?logo=wordpress)
-
 </div>
 
-<br />
 <br />
 <p>System Analyst with 10+ years of experience in developing scalable and reliable software solutions using Full Stack .NET technologies. Skilled in leading project teams, collaborating with stakeholders, and delivering results that exceed customer expectations. Proficient in C#, ASP.NET, MVC, Web API, .Net Core, .Net 7, Angular 14+, MS SQL Server, PostgreSQL, MongoDB, GitHub, etc. Committed to continuous learning and professional growth to stay up-to-date with the latest trends and technologies in the field.</p>
 <ul>
