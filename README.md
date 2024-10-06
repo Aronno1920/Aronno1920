@@ -6,21 +6,23 @@
 ![C#](https://img.shields.io/badge/Language-C%23-239120?logo=csharp)
 ![.NET](https://img.shields.io/badge/Platform-.NET-512BD4?logo=dotnet)
 ![.NET Core](https://img.shields.io/badge/Framework-.NET%20Core-512BD4?logo=dotnet)
-![ASP.NET MVC](https://img.shields.io/badge/Framework-ASP.NET-5C2D91?logo=dotnet)
-
-![Java](https://img.shields.io/badge/Language-Java-007396?logo=openjdk)
+![ASP.NET MVC](https://img.shields.io/badge/Framework-ASP.NET%20MVC-5C2D91?logo=dotnet)
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript)
-
+![Angular](https://img.shields.io/badge/Framework-Angular-DD0031?logo=angular)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript)
 ![HTML5](https://img.shields.io/badge/Language-HTML5-E34F26?logo=html5)
 ![Bootstrap](https://img.shields.io/badge/UI%20Framework-Bootstrap-7952B3?logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript)
-![Angular](https://img.shields.io/badge/Framework-Angular-DD0031?logo=angular)
+![Java](https://img.shields.io/badge/Language-Java-007396?logo=openjdk)
+
+
 ![GraphQL](https://img.shields.io/badge/Query%20Language-GraphQL-E10098?logo=graphql)
 ![MSSQL](https://img.shields.io/badge/Database-MSSQL-CC2927?logo=microsoftsqlserver)
-![Oracle](https://img.shields.io/badge/Database-Oracle-F80000?logo=oracle)
-![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb)
+![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql)
+![Oracle](https://img.shields.io/badge/Database-Oracle-F80000?logo=oracle)
+
+
 ![Nginx](https://img.shields.io/badge/Web%20Server-Nginx-009639?logo=nginx)
 ![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git)
 ![Docker](https://img.shields.io/badge/Containerization-Docker-2496ED?logo=docker)
