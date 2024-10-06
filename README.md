@@ -26,16 +26,13 @@
 ![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
-
 ![VS Code](https://img.shields.io/badge/IDE-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/API%20Testing-Postman-FF6C37?logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
-
 </div>
 
 <br />
-
 <div align="center">
   <img src="https://badges.pufler.dev/years/Aronno1920" alt="Years Badge">
   <img src="https://badges.pufler.dev/repos/Aronno1920" alt="Repos Badge">
