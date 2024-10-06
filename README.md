@@ -13,7 +13,7 @@
     🌍  I'm based in Dhaka, Bangladesh
   </li>
   <li>
-    🌱 I’m currently learning many things like Microservices with Clean architecture, and NGINX, I believe that every day is a learning opportunity. 
+    🌱 I’m currently learning many things like Microservices, Clean architecture, and NGINX, I believe that every day is a learning opportunity. 
   </li>
   <li>
     👯 I’m currently open for work and employment opportunities (remote and relocation)
