@@ -81,7 +81,7 @@
 ![ASP.NET](https://img.shields.io/badge/Framework-ASP.NET-5C2D91?logo=dotnet)
 ![.NET Core](https://img.shields.io/badge/Framework-.NET%20Core-512BD4?logo=dotnet)
 ![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git)
-![Java](https://img.shields.io/badge/Language-Java-007396?logo=java)
+![Java](https://img.shields.io/badge/Language-Java-007396?logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript)
 ![Postman](https://img.shields.io/badge/API%20Testing-Postman-FF6C37?logo=postman)
 ![HTML5](https://img.shields.io/badge/Language-HTML5-E34F26?logo=html5)
