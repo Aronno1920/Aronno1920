@@ -4,7 +4,7 @@
 <div align="center">
 
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?logo=dotnet)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?logo=dotnet)
 ![Web API](https://img.shields.io/badge/Web%20API-API-25A163?logo=api)
