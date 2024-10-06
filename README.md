@@ -58,12 +58,9 @@
 </ul>
 
 <h2>Profile Analysis</h2>
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
 <p align="center">
     <a href="https://github.com/aronno1920#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=aronno1920&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs,prs&line_height=28&hide_title=true&theme=dark" align = "center"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=aronno1920&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&theme=dark" align = "center"/>
     </a>
 </p>
 <p align="center">
