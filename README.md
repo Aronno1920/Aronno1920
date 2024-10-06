@@ -89,7 +89,7 @@
 ![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript)
 ![Angular](https://img.shields.io/badge/Framework-Angular-DD0031?logo=angular)
 ![GraphQL](https://img.shields.io/badge/Query%20Language-GraphQL-E10098?logo=graphql)
-![Microsoft SQL Server](https://img.shields.io/badge/Database-MSSQL-CC2927?logo=microsoftsqlserver)
+![MSSQL](https://img.shields.io/badge/Database-MSSQL-CC2927?logo=microsoftsqlserver)
 ![Oracle](https://img.shields.io/badge/Database-Oracle-F80000?logo=oracle)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb)
