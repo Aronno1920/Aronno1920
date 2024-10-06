@@ -30,6 +30,14 @@
 </div>
 
 <br />
+
+<div align="center">
+  <img src="https://badges.pufler.dev/years/Aronno1920" alt="Years Badge">
+  <img src="https://badges.pufler.dev/repos/Aronno1920" alt="Repos Badge">
+  <img src="https://badges.pufler.dev/gists/Aronno1920" alt="Gists Badge">
+  <img src="https://badges.pufler.dev/commits/yearly/Aronno1920" alt="Commits Badge">
+</div>
+
 <p>System Analyst with 10+ years of experience in developing scalable and reliable software solutions using Full Stack .NET technologies. Skilled in leading project teams, collaborating with stakeholders, and delivering results that exceed customer expectations. Proficient in C#, ASP.NET, MVC, Web API, .Net Core, .Net 7, Angular 14+, MS SQL Server, PostgreSQL, MongoDB, GitHub, etc. Committed to continuous learning and professional growth to stay up-to-date with the latest trends and technologies in the field.</p>
 <ul>
   <li>
@@ -45,13 +53,6 @@
     🤝  I'm open to collaborating on Projects
   </li>
 </ul>
-
-<div align="center">
-  <img src="https://badges.pufler.dev/years/Aronno1920" alt="Years Badge">
-  <img src="https://badges.pufler.dev/repos/Aronno1920" alt="Repos Badge">
-  <img src="https://badges.pufler.dev/gists/Aronno1920" alt="Gists Badge">
-  <img src="https://badges.pufler.dev/commits/yearly/Aronno1920" alt="Commits Badge">
-</div>
 
 <h2>Profile Analysis</h2>
 <p align="center">
