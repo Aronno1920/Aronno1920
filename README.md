@@ -5,8 +5,8 @@
 
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet)
-![.NET Core](https://img.shields.io/badge/Framework-.NET%20Core-512BD4?logo=dotnet)
-![ASP.NET MVC](https://img.shields.io/badge/Framework-ASP.NET%20MVC-5C2D91?logo=dotnet)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?logo=dotnet)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?logo=dotnet)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
