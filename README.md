@@ -14,26 +14,23 @@
 ![HTML5](https://img.shields.io/badge/Language-HTML5-E34F26?logo=html5)
 ![Bootstrap](https://img.shields.io/badge/UI%20Framework-Bootstrap-7952B3?logo=bootstrap)
 
-![MSSQL](https://img.shields.io/badge/Database-MSSQL-CC2927?logo=microsoftsqlserver)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb)
-![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql)
-![Oracle](https://img.shields.io/badge/Database-Oracle-F80000?logo=oracle)
-![Redis](https://img.shields.io/badge/Database-Redis-DC382D?logo=redis)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?logo=microsoftsqlserver)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis)
 ![GraphQL](https://img.shields.io/badge/Query%20Language-GraphQL-E10098?logo=graphql)
 
 ![Nginx](https://img.shields.io/badge/Web%20Server-Nginx-009639?logo=nginx)
 ![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git)
-![Docker](https://img.shields.io/badge/Containerization-Docker-2496ED?logo=docker)
-![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?logo=visualstudio)
-![VS Code](https://img.shields.io/badge/IDE-VS%20Code-007ACC?logo=visualstudiocode)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode)
 ![Postman](https://img.shields.io/badge/API%20Testing-Postman-FF6C37?logo=postman)
 
-![Linux](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux)
-![WordPress](https://img.shields.io/badge/CMS-WordPress-21759B?logo=wordpress)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress)
 
 </div>
 
