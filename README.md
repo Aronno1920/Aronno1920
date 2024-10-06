@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Selim Ahmed. Nice to see you.👋</h1>
-<h3 align="center">Experienced Full Stack .NET Developer, passionate about building innovative and efficient solutions for digital transformation.</h3>
+<h2 align="center">Hi, I'm Selim Ahmed. Nice to see you.👋</h2>
+<h4 align="center">Experienced Full Stack .NET Developer, passionate about building innovative and efficient solutions for digital transformation.</h4>
 <br />
 <div align="center">
 
