@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Selim Ahmed👋</h1>
-<h3 align="center">Thank you for visiting my profile. I'm an experienced Full Stack .NET Developer, passionate about building innovative and efficient solutions.</h3>
+<h1 align="center">Hi, I'm Selim Ahmed.Nice to see you.👋</h1>
+<h3 align="center">I'm an experienced Full Stack .NET Developer, passionate about building innovative and efficient solutions.</h3>
 <div align="center">
   <img src="https://badges.pufler.dev/years/Aronno1920" alt="Years Badge">
   <img src="https://badges.pufler.dev/repos/Aronno1920" alt="Repos Badge">
