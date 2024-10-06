@@ -14,13 +14,13 @@
 ![HTML5](https://img.shields.io/badge/Language-HTML5-E34F26?logo=html5)
 ![Bootstrap](https://img.shields.io/badge/UI%20Framework-Bootstrap-7952B3?logo=bootstrap)
 
-![GraphQL](https://img.shields.io/badge/Query%20Language-GraphQL-E10098?logo=graphql)
 ![MSSQL](https://img.shields.io/badge/Database-MSSQL-CC2927?logo=microsoftsqlserver)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql)
 ![Oracle](https://img.shields.io/badge/Database-Oracle-F80000?logo=oracle)
-
+![Redis](https://img.shields.io/badge/Database-Redis-DC382D?logo=redis)
+![GraphQL](https://img.shields.io/badge/Query%20Language-GraphQL-E10098?logo=graphql)
 
 ![Nginx](https://img.shields.io/badge/Web%20Server-Nginx-009639?logo=nginx)
 ![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git)
@@ -31,6 +31,10 @@
 
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux)
 ![WordPress](https://img.shields.io/badge/CMS-WordPress-21759B?logo=wordpress)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
+
+
 </div>
 
 <br />
