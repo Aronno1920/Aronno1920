@@ -36,11 +36,11 @@
 
 <br />
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aronno1920&label=Profile%20views&color=brightgreen&style=flat" alt="Aronno1920" />
   <img src="https://badges.pufler.dev/years/Aronno1920" alt="Years Badge">
   <img src="https://badges.pufler.dev/repos/Aronno1920" alt="Repos Badge">
   <img src="https://badges.pufler.dev/gists/Aronno1920" alt="Gists Badge">
   <img src="https://badges.pufler.dev/commits/yearly/Aronno1920" alt="Commits Badge">
-    <img src="https://komarev.com/ghpvc/?username=Aronno1920&label=Profile%20views&color=brightgreen&style=flat" alt="Aronno1920" />
 </div>
 
 <br />
