@@ -78,6 +78,5 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/aronno1920)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Aronno1920)
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/aronno1920)
-[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://sysexpo.com)
 [![Website](https://img.shields.io/badge/SysExpo-Online-green)](https://sysexpo.com)
 
