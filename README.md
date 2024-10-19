@@ -58,6 +58,9 @@
   <li>
     🤝  I'm open to collaborating on Projects
   </li>
+  <li>
+    ✉️  You can contact me at aronno1920@hotmail.com
+  </li>
 </ul>
 
 <h2>Profile Analysis</h2>
