@@ -59,7 +59,7 @@
     🤝  I'm open to collaborating on Projects
   </li>
   <li>
-    ✉️  You can contact me at aronno1920@hotmail.com
+    ✉️  You can contact me at <a href="mailto:aronno1920@hotmail.com">aronno1920@hotmail.com</a>
   </li>
 </ul>
 
