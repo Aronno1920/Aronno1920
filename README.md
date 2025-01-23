@@ -9,7 +9,7 @@
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?logo=dotnet&logoColor=white)
 ![Web API](https://img.shields.io/badge/Web%20API-API-25A163?logo=api&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
