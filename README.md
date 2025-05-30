@@ -65,7 +65,7 @@
 <h2>Profile Analysis</h2>
 <p align="center">
   <a href="https://github.com/aronno1920">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=aronno1920&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=aronno1920&show_icons=true&hide_border=true&hide_title=true&theme=dark" alt="GitHub Stats">
   </a>
 </p>
 <p align="center">
