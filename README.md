@@ -70,18 +70,17 @@
 </p>
 <p align="center">
   <a href="https://github.com/aronno1920">
-    <img width="445px" src="https://github-readme-stats.vercel.app/api?username=aronno1920&show_icons=true&hide_border=true&hide_title=true&theme=dark" alt="GitHub Stats">
-  </a>
-  <a href="https://github.com/aronno1920">
-        <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=aronno1920&hide_border=true&theme=dark" alt="aronno1920" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aronno1920&theme=dark&hide_border=true&hide_title=true" alt="GitHub Profile Summary">
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/aronno1920">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aronno1920&theme=dark&hide_border=true&hide_title=true" alt="GitHub Profile Summary">
+    <img width="435px" src="https://github-readme-stats.vercel.app/api?username=aronno1920&show_icons=true&hide_border=true&hide_title=true&theme=dark" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/aronno1920">
+        <img width="490px" src="https://github-readme-streak-stats.herokuapp.com/?user=aronno1920&hide_border=true&theme=dark" alt="aronno1920" />
   </a>
 </p>
-
 <h2>Where to find me</h2>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aronno1920/) 
