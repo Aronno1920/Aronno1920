@@ -70,7 +70,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/aronno1920">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=aronno1920&show_icons=true&hide_border=true&hide_title=true&theme=dark" alt="GitHub Stats">
+    <img width="445px" src="https://github-readme-stats.vercel.app/api?username=aronno1920&show_icons=true&hide_border=true&hide_title=true&theme=dark" alt="GitHub Stats">
   </a>
   <a href="https://github.com/aronno1920">
         <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=aronno1920&hide_border=true&theme=dark" alt="aronno1920" />
