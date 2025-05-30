@@ -65,12 +65,7 @@
 <h2>Profile Analysis</h2>
 <p align="center">
   <a href="https://github.com/aronno1920">
-    <img width="400px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aronno1920&theme=dark&hide_border=true" alt="GitHub Profile Summary">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/aronno1920">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=aronno1920&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=aronno1920&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
   </a>
 </p>
 <p align="center">
@@ -82,6 +77,11 @@
       <a href="https://github.com/aronno1920">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=aronno1920&hide_border=true&theme=dark" alt="aronno1920" />
     </a>
+</p>
+<p align="center">
+  <a href="https://github.com/aronno1920">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aronno1920&theme=dark&hide_border=true" alt="GitHub Profile Summary">
+  </a>
 </p>
 
 <h2>Where to find me</h2>
