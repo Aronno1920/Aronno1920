@@ -64,12 +64,24 @@
 
 <h2>Profile Analysis</h2>
 <p align="center">
-      <a href="https://github.com/aronno1920#gh-dark-mode-only">
+  <a href="https://github.com/aronno1920">
+    <img width="600px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aronno1920&theme=dark" alt="GitHub Profile Summary">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/aronno1920">
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=aronno1920&show_icons=true&theme=dark" alt="GitHub Stats">
+  </a>
+</p>
+
+
+<p align="center">
+      <a href="https://github.com/aronno1920">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aronno1920&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&theme=dark"/>
     </a>
 </p>
 <p align="center">
-      <a href="https://github.com/aronno1920#gh-dark-mode-only">
+      <a href="https://github.com/aronno1920">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=aronno1920&hide_border=true&theme=dark" alt="aronno1920" />
     </a>
 </p>
