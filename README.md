@@ -40,8 +40,6 @@
   ![Public Repos](https://img.shields.io/badge/Public%20Repos-20-blue)
   ![Gists](https://img.shields.io/badge/Gists-4-lightgrey)
   <img src="https://komarev.com/ghpvc/?username=Aronno1920&label=Profile%20views&color=brightgreen&style=flat" alt="Aronno1920" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Aronno1920&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aronno1920" />
 </div>
 
 <br />
@@ -66,26 +64,26 @@
 
 <h2>Profile Analysis</h2>
 <p align="center">
-      <a href="https://github.com/aronno1920">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aronno1920&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&theme=dark"/>
+      <a href="https://github.com/Aronno1920">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aronno1920&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&theme=dark"/>
     </a>
 </p>
 <p align="center">
-  <a href="https://github.com/aronno1920">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aronno1920&theme=dark&hide_border=true&hide_title=true" alt="GitHub Profile Summary">
+  <a href="https://github.com/Aronno1920">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aronno1920&theme=dark&hide_border=true&hide_title=true" alt="GitHub Profile Summary">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/aronno1920">
-    <img width="435px" src="https://github-readme-stats.vercel.app/api?username=aronno1920&show_icons=true&hide_border=true&hide_title=true&theme=dark" alt="GitHub Stats">
+  <a href="https://github.com/Aronno1920">
+    <img width="435px" src="https://github-readme-stats.vercel.app/api?username=Aronno1920&show_icons=true&hide_border=true&hide_title=true&theme=dark" alt="GitHub Stats">
   </a>
-  <a href="https://github.com/aronno1920">
-        <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=aronno1920&hide_border=true&theme=dark" alt="aronno1920" />
+  <a href="https://github.com/Aronno1920">
+    <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=Aronno1920&hide_border=true&theme=dark" alt="Aronno1920" />
   </a>
 </p>
 <h2>Where to find me</h2>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aronno1920/) 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/aronno1920)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Aronno1920/) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/Aronno1920)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Aronno1920)
-[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/aronno1920)
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/Aronno1920)
