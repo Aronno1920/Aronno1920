@@ -36,6 +36,7 @@
 <br />
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Aronno1920&label=Profile%20views&color=brightgreen&style=flat" alt="Aronno1920" />
+  
   ![Joined GitHub in 2020](https://img.shields.io/badge/Joined-2020-blue)
   <img src="https://badges.pufler.dev/years/Aronno1920" alt="Years Badge">
   <img src="https://badges.pufler.dev/repos/Aronno1920" alt="Repos Badge">
