@@ -40,6 +40,8 @@
   ![Public Repos](https://img.shields.io/badge/Public%20Repos-20-blue)
   ![Gists](https://img.shields.io/badge/Gists-4-lightgrey)
   <img src="https://komarev.com/ghpvc/?username=Aronno1920&label=Profile%20views&color=brightgreen&style=flat" alt="Aronno1920" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aronno1920&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aronno1920" />
 </div>
 
 <br />
