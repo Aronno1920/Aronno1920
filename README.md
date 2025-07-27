@@ -44,12 +44,17 @@
 
 <br />
 <p>System Analyst with 10+ years of experience in developing scalable and reliable software solutions using Full Stack .NET technologies. Skilled in leading project teams, collaborating with stakeholders, and delivering results that exceed customer expectations. Proficient in C#, ASP.NET, MVC, Web API, .Net Core, Angular, MSSQL Server, PostgreSQL, MongoDB, GitHub, etc. Committed to continuous learning and professional growth to stay up-to-date with the latest trends and technologies in the field.</p>
+
+<p>I am now actively pivoting towards Data Science and Artificial Intelligence, combining my domain knowledge with technical skills in Python, machine learning, and AI engineering.</p>
 <ul>
   <li>
     🌍  I'm based in Dhaka, Bangladesh
   </li>
+    <li>
+    🌱 I’m currently transitioning into AI and Data Science engineering, I believe that every day is a learning opportunity.
+  </li>
   <li>
-    🌱 I’m currently learning many things like Microservices, Clean architecture, and NGINX, I believe that every day is a learning opportunity. 
+    🌱 I’m learning many things like Microservices, Clean architecture, and NGINX, I believe that every day is a learning opportunity. 
   </li>
   <li>
     👯 I’m currently open for work and employment opportunities (remote and relocation)
