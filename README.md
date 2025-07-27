@@ -54,7 +54,7 @@
     🌱 I’m currently transitioning into AI and Data Science engineering, I believe that every day is a learning opportunity.
   </li>
   <li>
-    🌱 I’m learning many things like Microservices, Clean architecture, and NGINX, I believe that every day is a learning opportunity. 
+    🌱 I’m learning Microservices with Clean architecture. 
   </li>
   <li>
     👯 I’m currently open for work and employment opportunities (remote and relocation)
