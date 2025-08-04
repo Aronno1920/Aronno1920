@@ -51,7 +51,7 @@
     🌍  I'm based in Dhaka, Bangladesh
   </li>
     <li>
-    🌱 I’m currently transitioning into AI and Data Science engineering, I believe that every day is a learning opportunity.
+    🌱 I’m currently transitioning into ML & DL Projects, LLMs, NLP, and Generative AI and APIs, I believe that every day is a learning opportunity.
   </li>
   <li>
     🌱 I’m learning Microservices with Clean architecture. 
