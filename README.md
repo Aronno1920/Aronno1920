@@ -36,6 +36,16 @@
 
 <div align="center">
   
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+</div>
+<br />
+
+<div align="center">
+  
   ![Joined GitHub in 2014](https://img.shields.io/badge/Joined-2014-blue)
   ![Public Repos](https://img.shields.io/badge/Public%20Repos-20-blue)
   ![Gists](https://img.shields.io/badge/Gists-4-lightgrey)
