@@ -31,7 +31,8 @@
 <div align="center">
   
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
