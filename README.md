@@ -38,7 +38,9 @@
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
   ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=apachespark&logoColor=white)
   ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F61?logo=deepnote&logoColor=white)
-  ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+  ![NLP](https://img.shields.io/badge/NLP-FF6F00?logo=natural-language-processing&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6C44?logo=huggingface&logoColor=white)
+  ![LangChain](https://img.shields.io/badge/LangChain-1E40AF?logo=langchain&logoColor=white)
   ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?logo=yolo&logoColor=black)
 </div>
 <br />
