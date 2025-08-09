@@ -56,7 +56,6 @@
 <p>System Analyst with 10+ years of experience in developing scalable and reliable software solutions using Full Stack .NET technologies. Skilled in leading project teams, collaborating with stakeholders, and delivering results that exceed customer expectations. Proficient in C#, ASP.NET, MVC, Web API, .NET Core, Angular, MSSQL Server, PostgreSQL, MongoDB, GitHub, Python, PyTorch, and Transformers etc. Committed to continuous learning and professional growth to stay up-to-date with the latest trends and technologies in the field.</p>
 
 <p>I am now actively pivoting towards Data Science and Artificial Intelligence, combining my domain knowledge with technical skills in Python, machine learning, deep learning, and AI engineering.</p>
-<br />
 <ul>
   <li>
     🌍 I'm based in Dhaka, Bangladesh
@@ -77,7 +76,7 @@
     ✉️ You can contact me at <a href="mailto:aronno1920@hotmail.com">aronno1920@hotmail.com</a>
   </li>
 </ul>
-
+<br />
 <h2>Profile Analysis</h2>
 <p align="center">
       <a href="https://github.com/Aronno1920">
@@ -97,6 +96,7 @@
     <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=Aronno1920&hide_border=true&theme=dark" alt="Aronno1920" />
   </a>
 </p>
+<br />
 <h2>Where to find me</h2>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Aronno1920/) 
