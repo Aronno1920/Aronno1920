@@ -38,8 +38,6 @@
   ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=apachespark&logoColor=white)
   ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F61?logo=deepnote&logoColor=white)
   ![NLP](https://img.shields.io/badge/NLP-FF6F00?logo=natural-language-processing&logoColor=white)
-  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6C44?logo=huggingface&logoColor=white)
-  ![Roboflow](https://img.shields.io/badge/Roboflow-0052CC?logo=roboflow&logoColor=white)
   ![LangChain](https://img.shields.io/badge/LangChain-1E40AF?logo=langchain&logoColor=white)
   ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?logo=yolo&logoColor=black)
 </div>
@@ -77,7 +75,7 @@
     ✉️ You can contact me at <a href="mailto:aronno1920@hotmail.com">aronno1920@hotmail.com</a>
   </li>
 </ul>
-<br />
+
 <h2>Profile Analysis</h2>
 <p align="center">
       <a href="https://github.com/Aronno1920">
@@ -97,7 +95,7 @@
     <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=Aronno1920&hide_border=true&theme=dark" alt="Aronno1920" />
   </a>
 </p>
-<br />
+
 <h2>Where to find me</h2>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Aronno1920/) 
