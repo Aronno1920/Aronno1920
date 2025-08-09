@@ -43,15 +43,15 @@
 </div>
 
 <br />
-<p>System Analyst with 10+ years of experience in developing scalable and reliable software solutions using Full Stack .NET technologies. Skilled in leading project teams, collaborating with stakeholders, and delivering results that exceed customer expectations. Proficient in C#, ASP.NET, MVC, Web API, .Net Core, Angular, MSSQL Server, PostgreSQL, MongoDB, GitHub, etc. Committed to continuous learning and professional growth to stay up-to-date with the latest trends and technologies in the field.</p>
+<p>System Analyst with 10+ years of experience in developing scalable and reliable software solutions using Full Stack .NET technologies. Skilled in leading project teams, collaborating with stakeholders, and delivering results that exceed customer expectations. Proficient in C#, ASP.NET, MVC, Web API, .NET Core, Angular, MSSQL Server, PostgreSQL, MongoDB, GitHub, Python, PyTorch, and Transformers etc. Committed to continuous learning and professional growth to stay up-to-date with the latest trends and technologies in the field.</p>
 
 <p>I am now actively pivoting towards Data Science and Artificial Intelligence, combining my domain knowledge with technical skills in Python, machine learning, deep learning, and AI engineering.</p>
 <ul>
   <li>
-    🌍  I'm based in Dhaka, Bangladesh
+    🌍 I'm based in Dhaka, Bangladesh
   </li>
     <li>
-    🌱 I’m currently transitioning into ML & DL Projects, LLMs, NLP, and Generative AI and APIs, I believe that every day is a learning opportunity.
+    🌱 I’m currently transitioning into ML & DL Projects, LLMs, NLP, and Generative AI and APIs. I believe that every day is a learning opportunity.
   </li>
   <li>
     🌱 I’m learning Microservices with Clean architecture. 
@@ -60,10 +60,10 @@
     👯 I’m currently open for work and employment opportunities (remote and relocation)
   </li>
   <li>
-    🤝  I'm open to collaborating on Projects
+    🤝 I'm open to collaborating on Projects
   </li>
   <li>
-    ✉️  You can contact me at <a href="mailto:aronno1920@hotmail.com">aronno1920@hotmail.com</a>
+    ✉️ You can contact me at <a href="mailto:aronno1920@hotmail.com">aronno1920@hotmail.com</a>
   </li>
 </ul>
 
