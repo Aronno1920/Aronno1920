@@ -5,7 +5,7 @@
 
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/Public%20Repos-20-blue)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logoColor=white)
 
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?logo=dotnet&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?logo=dotnet&logoColor=white)
