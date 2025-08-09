@@ -39,6 +39,7 @@
   ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F61?logo=deepnote&logoColor=white)
   ![NLP](https://img.shields.io/badge/NLP-FF6F00?logo=natural-language-processing&logoColor=white)
   ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6C44?logo=huggingface&logoColor=white)
+  ![Roboflow](https://img.shields.io/badge/Roboflow-0052CC?logo=roboflow&logoColor=white)
   ![LangChain](https://img.shields.io/badge/LangChain-1E40AF?logo=langchain&logoColor=white)
   ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?logo=yolo&logoColor=black)
 </div>
