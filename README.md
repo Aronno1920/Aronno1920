@@ -35,6 +35,10 @@
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=apachespark&logoColor=white)
+  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F61?logo=deepnote&logoColor=white)
+  ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+  ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?logo=yolo&logoColor=black)
 </div>
 <br />
 
