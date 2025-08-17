@@ -56,7 +56,7 @@
 <p>I am now actively pivoting towards Data Science and Artificial Intelligence, combining my domain knowledge with technical skills in Python, machine learning, deep learning, and AI engineering.</p>
 <ul>
   <li>
-    🌍 I'm based in Dhaka, Bangladesh
+    🌍 I'm based in Dhaka, Bangladesh.
   </li>
     <li>
     🌱 I’m currently transitioning into ML & DL Projects, LLMs, NLP, and Generative AI and APIs. I believe that every day is a learning opportunity.
@@ -65,10 +65,10 @@
     🌱 I’m learning Microservices with Clean architecture. 
   </li>
   <li>
-    👯 I’m currently open for work and employment opportunities (remote and relocation)
+    👯 I’m currently open for work and employment opportunities (remote and relocation).
   </li>
   <li>
-    🤝 I'm open to collaborating on Projects
+    🤝 I'm open to collaborating on Projects.
   </li>
   <li>
     ✉️ You can contact me at <a href="mailto:aronno1920@hotmail.com">aronno1920@hotmail.com</a>
