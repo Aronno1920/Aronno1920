@@ -54,31 +54,37 @@
 
 ## 👨‍💻 About Me
 
-<p>System Analyst with 10+ years of experience in developing scalable and reliable software solutions using Full Stack .NET technologies. Skilled in leading project teams, collaborating with stakeholders, and delivering results that exceed customer expectations. Proficient in C#, ASP.NET, MVC, Web API, .NET Core, Angular, MSSQL Server, PostgreSQL, MongoDB, GitHub, Python, PyTorch, and Transformers etc. Committed to continuous learning and professional growth to stay up-to-date with the latest trends and technologies in the field.</p>
+I’m a System Analyst and Full-Stack .NET Developer with over 10+ years of experience designing, developing, and delivering scalable and reliable software solutions.
 
-<p>I am now actively pivoting towards Data Science and Artificial Intelligence, combining my domain knowledge with technical skills in Python, machine learning, deep learning, and AI engineering.</p>
-<ul>
-  <li>
-    🌍 I'm based in Dhaka, Bangladesh.
-  </li>
-    <li>
-    🌱 I’m currently transitioning into ML & DL Projects, LLMs, NLP, and Generative AI and APIs. I believe that every day is a learning opportunity.
-  </li>
-  <li>
-    🌱 I’m learning Microservices with Clean architecture. 
-  </li>
-  <li>
-    👯 I’m currently open for work and employment opportunities (remote and relocation).
-  </li>
-  <li>
-    🤝 I'm open to collaborating on Projects.
-  </li>
-  <li>
-    ✉️ You can contact me at <a href="mailto:aronno1920@hotmail.com">aronno1920@hotmail.com</a>
-  </li>
-</ul>
+I specialize in C#, ASP.NET MVC/Core, Web API, .NET Core, MSSQL Server, PostgreSQL, and MongoDB, with strong experience in modern frontend development using Angular. I also use tools and technologies such as GitHub, Python, PyTorch, and Transformers to build robust, data-driven, intelligent applications.
 
-<h2>Profile Analysis</h2>
+Throughout my career, I’ve led project teams, collaborated closely with stakeholders, and worked across the full software development lifecycle to deliver solutions that meet business requirements and exceed customer expectations.
+
+Currently, I’m actively pivoting my career toward Data Science and Artificial Intelligence, combining my extensive software engineering and domain knowledge with Python, machine learning, deep learning, and AI engineering. I’m continuously expanding my expertise in modern AI technologies and exploring how to integrate intelligent systems into real-world business applications.
+
+🌍 Based in Dhaka, Bangladesh.
+🌱 Currently transitioning into ML & DL Projects, LLMs, NLP, Generative AI, and APIs. I believe that every day is a learning opportunity.
+🌱 Passionate about Clean Architecture, scalable system design & performance optimization.
+👯 Open to work and employment opportunities (remote and relocation).
+🤝 Open to collaborating on Projects.
+✉️ You can contact me at <a href="mailto:aronno1920@hotmail.com">aronno1920@hotmail.com</a>
+
+---
+
+## 📦 Key Projects
+
+- Enterprise ERP Systems
+- Employee Appraisal System
+- Final Settlement System
+- Circular Management System
+- Employee Search Portal
+- Client Websites & eCommerce Platforms
+
+---
+
+
+## 💼 Profile Analysis
+
 <p align="center">
       <a href="https://github.com/Aronno1920">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aronno1920&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&theme=dark"/>
