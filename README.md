@@ -69,7 +69,7 @@ Currently, I’m actively pivoting my career toward Data Science and Artificial 
 🤝 Open to collaborating on Projects. <br />
 ✉️ You can contact me at <a href="mailto:aronno1920@hotmail.com">aronno1920@hotmail.com</a>
 
----
+<br />
 
 ## 📦 Key Projects
 
@@ -80,8 +80,7 @@ Currently, I’m actively pivoting my career toward Data Science and Artificial 
 - School Management System
 - Client Websites & eCommerce Platforms
 
----
-
+<br />
 
 ## 💼 Profile Analysis
 
