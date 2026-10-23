@@ -44,7 +44,7 @@
 
 <div align="center">
   
-  ![Joined GitHub in 2014](https://img.shields.io/badge/Joined-2014-blue)
+  ![Joined GitHub in 2014](https://img.shields.io/badge/Joined-2014-green)
   ![Public Repos](https://img.shields.io/badge/Public%20Repos-20-blue)
   ![Gists](https://img.shields.io/badge/Gists-4-lightgrey)
   ![Commits Badge](https://badges.pufler.dev/commits/yearly/aronno1920)
