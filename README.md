@@ -73,11 +73,11 @@ Currently, I’m actively pivoting my career toward Data Science and Artificial 
 
 ## 📦 Key Projects
 
-- Enterprise ERP Systems
-- Employee Appraisal System
-- Final Settlement System
-- Circular Management System
-- Employee Search Portal
+- Enterprise Resource Planning (ERP) Systems
+- KPI based Assessment System
+- Accounting System
+- Visitor Management System
+- School Management System
 - Client Websites & eCommerce Platforms
 
 ---
