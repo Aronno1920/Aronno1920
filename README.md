@@ -62,11 +62,11 @@ Throughout my career, I’ve led project teams, collaborated closely with stakeh
 
 Currently, I’m actively pivoting my career toward Data Science and Artificial Intelligence, combining my extensive software engineering and domain knowledge with Python, machine learning, deep learning, and AI engineering. I’m continuously expanding my expertise in modern AI technologies and exploring how to integrate intelligent systems into real-world business applications.
 
-🌍 Based in Dhaka, Bangladesh.
-🌱 Currently transitioning into ML & DL Projects, LLMs, NLP, Generative AI, and APIs. I believe that every day is a learning opportunity.
-🌱 Passionate about Clean Architecture, scalable system design & performance optimization.
-👯 Open to work and employment opportunities (remote and relocation).
-🤝 Open to collaborating on Projects.
+🌍 Based in Dhaka, Bangladesh. <br />
+🌱 Currently transitioning into ML & DL Projects, LLMs, NLP, Generative AI, and APIs. I believe that every day is a learning opportunity. <br />
+🌱 Passionate about Clean Architecture, scalable system design & performance optimization. <br />
+👯 Open to work and employment opportunities (remote and relocation). <br />
+🤝 Open to collaborating on Projects. <br />
 ✉️ You can contact me at <a href="mailto:aronno1920@hotmail.com">aronno1920@hotmail.com</a>
 
 ---
