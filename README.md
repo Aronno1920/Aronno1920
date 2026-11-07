@@ -78,6 +78,7 @@ Currently, I’m actively pivoting my career toward Data Science and Artificial 
 - Accounting System
 - Visitor Management System
 - School Management System
+- Point of Sale and Retail Management Solution
 - Client Websites & eCommerce Platforms
 
 <br />
